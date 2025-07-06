@@ -1,1 +1,0 @@
-command for working directory
